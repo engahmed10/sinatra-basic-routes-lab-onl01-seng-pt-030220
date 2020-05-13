@@ -4,6 +4,6 @@ class App < Sinatra::Base
 
 
   get '/' do
-      "My name is Ahmed"
+      "My name is Afandy"
   end
 end
