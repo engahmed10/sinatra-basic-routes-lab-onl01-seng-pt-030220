@@ -11,5 +11,5 @@ class App < Sinatra::Base
     "My hometown is earth"
   end
 
-  end
+  
 end
