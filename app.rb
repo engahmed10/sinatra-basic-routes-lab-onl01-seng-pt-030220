@@ -8,7 +8,7 @@ class App < Sinatra::Base
   end
 
   get  '/hometown'  do
-  #  "My hometown is earth"
+    "My hometown is earth"
   end
 
 
